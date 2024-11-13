@@ -1,0 +1,21 @@
+
+.toggle-text {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  
+  .toggle-button {
+    background: none;
+    border: none;
+    color: #e9f0f1;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 5px;
+  }
+  
+  .toggle-button:hover {
+    text-decoration: underline;
+  }
+  .form-container{
+    background-color: rgb(66, 104, 241);
+  }
